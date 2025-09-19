@@ -33,8 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)  
-*(Add a screenshot of your final project here. You can generate one from your browser or design tool.)*
+![](./screenshot.png)  
 
 ### Links
 
@@ -103,8 +102,6 @@ In future projects, I want to focus more on:
 
 
 ## Acknowledgments
-
-Acknowledgments
 
 Thanks to the Frontend Mentor community for code reviews and helpful feedback while building this project.
 
