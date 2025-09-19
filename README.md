@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution link here](https://www.frontendmentor.io/solutions/your-solution-link)
-- Live Site URL: [Add live site link here](https://your-live-site-url.com)
+- Solution URL: [Fontend Mentor](https://www.frontendmentor.io/solutions/tip-calculator-app-4mF7THZW_Rs)
+- Live Site URL: [Github Pages](https://birukl137.github.io/Tip-calculator-app/)
 
 ---
 
